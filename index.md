@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+![Image] (src=https://static.wikia.nocookie.net/beluga/images/7/7e/Heckerwebsite.png/revision/latest?cb=20210908042243)
 
-You can use the [editor on GitHub](https://github.com/hackerFerret/hecker.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# the hecker files
+
+this is a website for hecker, ally of beluga, `sudo hack kahoot`, all that. 
+
+**Disclaimer:** This is a fan creation. 
 
 ### Markdown
 
