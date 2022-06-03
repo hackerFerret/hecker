@@ -1,4 +1,4 @@
-![Image](https://static.wikia.nocookie.net/beluga/images/7/7e/Heckerwebsite.png/revision/latest?cb=20210908042243)
+![Image]("https://static.wikia.nocookie.net/beluga/images/7/7e/Heckerwebsite.png/revision/latest?cb=20210908042243")
 
 
 this is a website for hecker, ally of beluga, `sudo hack kahoot`, all that. 
