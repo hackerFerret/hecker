@@ -12,3 +12,6 @@ import webbrowser
 
 webbrowser.open_new("thisworldthesedays.com/article-31")
 ```
+then run that.
+
+
