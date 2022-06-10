@@ -1,3 +1,6 @@
 title: hecker.exe
 description: the unofficial hecker website
 theme: jekyll-theme-slate
+
+- name: Random RickRoll
+  uses: TejasvOnly/random-rickroll@v1.0
